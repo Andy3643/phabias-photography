@@ -11,7 +11,7 @@ import './myWork.css'
 
 const MyWork = () => {
   return (
-    <section >
+    <section id='myWork'>
         <div className="container">
             <div className="top-my-work">
                 <h2>My Work</h2>

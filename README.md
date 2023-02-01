@@ -1,6 +1,6 @@
-# Chuma
+# Phabias Photography
 
-Exercise is an important part  our daily lives for healthy living. Chuma is an affordable gym you could visit to lift some dumbells and let go off some weight. 
+This is a portfolio for Phabias. A freelancer who offers photography and internet services. It shows some of his best projects. 
 ## Getting Started
 
 ### Prerequisites

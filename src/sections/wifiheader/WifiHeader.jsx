@@ -11,7 +11,7 @@ const WifiHeader = () => {
                 <div className="right-wifi-header">
                     <h2>Hi wifi speeds</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus minus explicabo praesentium?</p>
-                    <a href="" className='btn primary'>Contact Us</a>
+                    <a href="https://wa.me/+254797950449"  className='btn primary' target="_blank">Contact Us</a>
                 </div>
                 <div className="left-wifi-header">
                     <img src={wifi} alt="" />
