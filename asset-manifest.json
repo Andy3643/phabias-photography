@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/phabias-photography/static/css/main.b3060291.css",
+    "main.js": "/phabias-photography/static/js/main.b948c29f.js",
+    "static/media/wifiheader.png": "/phabias-photography/static/media/wifiheader.e7f392d36ee37a1d27a6.png",
+    "static/media/customercare.png": "/phabias-photography/static/media/customercare.d327ae19f0f33548610b.png",
+    "static/media/wedding3.jpg": "/phabias-photography/static/media/wedding3.7bd4e473e1511e8e1eee.jpg",
+    "static/media/woman.jpg": "/phabias-photography/static/media/woman.a8a713264b1cb5c5ccdf.jpg",
+    "static/media/fashion-model.jpg": "/phabias-photography/static/media/fashion-model.f915312fddee7b3e629c.jpg",
+    "static/media/wedding2 .jpg": "/phabias-photography/static/media/wedding2 .7e00389515cf69fdcb00.jpg",
+    "static/media/totogirl.jpg": "/phabias-photography/static/media/totogirl.80667accaf95cb62ca53.jpg",
+    "static/media/phabimage1.png": "/phabias-photography/static/media/phabimage1.a86018c4c2ca72179ddb.png",
+    "index.html": "/phabias-photography/index.html",
+    "main.b3060291.css.map": "/phabias-photography/static/css/main.b3060291.css.map",
+    "main.b948c29f.js.map": "/phabias-photography/static/js/main.b948c29f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3060291.css",
+    "static/js/main.b948c29f.js"
+  ]
+}
