@@ -1,0 +1,9 @@
+.circular-bar{
+    width: 9vw;
+}
+/* MEDIA QUERIES (tablets) */
+@media screen and (max-width: 900px) {
+    .circular-bar{
+        width: 35vw;
+    }
+}

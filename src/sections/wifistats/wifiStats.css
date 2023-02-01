@@ -1,0 +1,52 @@
+.customer-service-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 18vw;
+}
+.heplcare-image img{
+    width: 25vw;
+}
+
+.statistics-js{
+    display: flex;
+    gap: 5vw;
+    
+}
+.statistics-description{
+    display: flex;
+    flex-direction: column;
+    gap: 2vw;
+}
+
+/* MEDIA QUERIES (tablets) */
+@media screen and (max-width: 900px) { 
+    .customer-service-container{
+        gap: 10vw;
+    }
+}
+
+
+/* MEDIA QUERIES (phones) */
+@media screen and (max-width: 600px) {
+    .customer-service-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+    .statistics-js{
+        display: flex;
+        justify-content: space-between;
+        gap: 15vw;
+        
+    }
+    .statistics-js :nth-child(1){
+        margin-top: 0.8rem;
+    }
+    .heplcare-image img{
+        width: 80vw;
+    }
+    .support-desc p{
+        font-size: 0.8rem;
+    }
+}

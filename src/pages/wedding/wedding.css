@@ -1,0 +1,44 @@
+.show-pics-portfolio{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+}
+.portfolio-pic>img{
+    width: 95%;
+    height: fit-content;
+    max-height: 40rem;
+    border: 0.5rem solid var(--color-white);
+    transition: var(--transition);
+}
+.portfolio-pic>img:hover{
+    border-width: 0;
+}
+/* MEDIA QUERIES (phones) */
+@media screen and (max-width: 600px) {
+    .header-section-image{
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .images-portfolio{
+        padding-top: 3rem;
+    }
+    .show-pics-portfolio{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        gap: 1rem;
+
+    }
+    .portfolio-pic{
+        width: 100vw;
+    }
+    .portfolio-pic>img{
+        width: 95%;
+        height: fit-content;
+        max-height: 20rem;
+        border: 0.4rem solid var(--color-white);
+        transition: var(--transition);
+    }
+
+}

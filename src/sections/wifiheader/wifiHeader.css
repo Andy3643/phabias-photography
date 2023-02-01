@@ -1,0 +1,37 @@
+.header__wifi-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.right-wifi-header{
+    width: 35%;
+}
+.right-wifi-header a{
+    margin-top: 3rem;
+}
+.left-wifi-header img{
+    width: 30vw;
+}
+
+/* MEDIA QUERIES (tablets) */
+@media screen and (max-width: 900px) {
+    .left-wifi-header img{
+        width: 35vw;
+    }   
+    .right-wifi-header{
+        width: 40vw;
+    }
+}
+/* MEDIA QUERIES (phones) */
+@media screen and (max-width: 600px) {
+    .right-wifi-header{
+        width: 100vw;
+        text-align: center;
+    }
+    .right-wifi-header a{
+        margin-left: 30vw;
+    }
+    .left-wifi-header{
+        display: none;
+    } 
+}
